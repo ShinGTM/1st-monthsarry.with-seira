@@ -236,7 +236,7 @@ body {
   z-index: 999;
   opacity: 0;
   pointer-events: none;
-  transition: opacity 0.5s ease;
+  transition: opacity 4.6s ease;
 }
 
 .popup-text.show {
